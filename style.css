@@ -13,6 +13,28 @@ body {
   background: #e5e5e5;
 }
 
+button {
+  background: none;
+  border: none;
+}
+
+svg {
+  margin: 0 20rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  cursor: pointer;
+}
+
+svg:hover path {
+  fill: rgb(215, 215, 7);
+}
+
+.darkMode {
+  color: #ffffff;
+  fill: #ffffff;
+  background: #000000;
+}
+
 .container {
   width: 30rem;
   padding: 4rem;
