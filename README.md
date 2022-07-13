@@ -26,6 +26,15 @@ This project was made using HTML5 / CSS3, to a brazilian comic shop with the pur
 
 Este projeto foi feito usando HTML5/CSS3, para uma loja de quadrinhos brasileira com o objetivo de ajudá-los a centralizar seus serviços em um só lugar, para que seus clientes possam acessar através dos links.
 
+
+Here you can see the project running: https://luizfpsvn.github.io/gibimaniacoslinkcenter/
+
+
+Images:
+
+![Screen Shot 2022-07-13 at 13 32 48](https://user-images.githubusercontent.com/99773088/178785164-a493cdca-fcbe-41eb-a314-fe825a20f3e8.png)
+![Screen Shot 2022-07-13 at 13 32 16](https://user-images.githubusercontent.com/99773088/178785169-89b9a568-29b0-4594-a5f8-0ec0486d2e1b.png)
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
